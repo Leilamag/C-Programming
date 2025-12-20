@@ -34,3 +34,5 @@ This repository documents my learning journey in C programming. It contains prac
 
 
 
+
+[1. Setup](01-Setup.md)
