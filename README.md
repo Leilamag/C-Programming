@@ -52,7 +52,7 @@ This repository documents my learning journey in C programming. It contains litt
 
 [**PROJECT** - Simple Address Book](25-Simple-Address-Book.md)
 
-[Dynamic Memory Allocation + Project](20-Dynamic-Memory-Allocation.md)
+[Dynamic Memory Allocation + Project](26-Dynamic-Memory-Allocation.md)
 
 [File Input/Output + Project](27-File.md)
 
