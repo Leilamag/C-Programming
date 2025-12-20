@@ -3,6 +3,7 @@ This repository documents my learning journey in C programming. It contains prac
 
 # Course Outline
 [1. Setup](01-Setup.md)
+
 [2. Your First Code - Drawing Shapes](02-First-Code.md)
 [3. Your Second Code - Hello World](03-HelloWorld.md)
 [4. Variables + Project](04-Variables.md)
