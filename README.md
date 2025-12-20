@@ -2,37 +2,46 @@
 This repository documents my learning journey in C programming. It contains practice exercises, tasks, and small projects that help me understand core C concepts step by step. The goal is to track my progress, improve problem-solving skills, and build a strong foundation in C.
 
 # Course Outline
-- windows setup
-- mac setup
-- first code - hello world
-- drawing shape
-- variables
-- data types
-- printf
-- working with numbers
-- comments
-- constants
-- getting user input
-- building a basic calculator
-- building a mad libs game
-- arrays
-- functions
-- return statement
-- if statements
-- building a better calculator
-- switch statements
-- structs
-- while loops
-- building a guessing game
-- for loops
-- 2d arrays & nested loops
-- memory addresses
-- pointers
-- dereferencing pointers
-- writing files
-- reading files
-
-
-
-
 [1. Setup](01-Setup.md)
+[2. Your First Code - Drawing Shapes](02-First-Code.md)
+[3. Your Second Code - Hello World](03-HelloWorld.md)
+[4. Variables + Project](04-Variables.md)
+[5. Data Types + Project](05-Datatypes.md)
+[6. Printf + Project](06-Printf.md)
+[7. Comments](07-Comments.md)
+[8. Constants + Project](08-Constants.md)
+[9. Getting User Input + Project](09-Getting-User-Input.md)
+[10. Working With Numbers + Project](10-Working-with-numbers.md)
+[11. Project - Building A Basic Calculator](11-Building-a-basic-calculator.md)
+[12. If Statements + Project](12-if-statement.md)
+[13. Switch Statements + Project](13-Switch-statement.md)
+[14. Loops + Project](14-Loops.md)
+[15. Arrays + Project](15-arrays.md)
+[16. String Functions + Project](16-String-function.md)
+[17. Functions + Project](17-Functions.md)
+[18. Return Statement + Project](18-Return-statement.md)
+[19. Project - Building A Mad Libs Game](19-madlibs.md)
+[20. Structs + Project](20-Structs.md)
+[21. Pointers + Project](21-Pointers.md)
+[22. Memory Addresses + Project](22-Memory-Addr.md)
+[23. Dereferencing Pointers + Project](23-Dereferencing-pointers.md)
+[24. Memory Management + Project](24-Memory-mgmt.md)
+[25. Project - Simple Address Book](25-Simple-Address-Book.md)
+[26. Dynamic Memory Allocation + Project](20-Dynamic-Memory-Allocation.md)
+[27. File Input/Output + Project](27-File.md)
+[28. Project - To-Do List App](28-To-Do-List-App.md)
+[29. Input/Output + Project](29-Input-Output.md)
+[30. Error Handling + Project](30-ERROR-HANDLING.md)
+[31. Simple Quiz Program + Project](31-Simple-Quiz-Program.md)
+[32. Math Functions + Project](32-Math-Fn.md)
+[33. Project - Scientific Calculator](33-Scientific-Calculator.md)
+[34. OTHER + Project](34-OTHER.md)
+[35. Project - Rock-Paper-Scissors Game](35-Game.md)
+[36. Command-Line Arguments + Project](36-CMD.md)
+[37. Project - Simple File Copier](37-file-copier.md)
+[38. BITWISE Operations + Project](38-Bitwise.md)
+[39. Project - Binary Converter](39-Binary.md)
+[40. Function Pointers + Project](40-Fn-Pointers.md)
+[41. Project - Simple Calculator with Function Pointers](41-Simple-calc.md)
+[42. Advanced Data Structures + Project](42-Adv-Data-Structure.md)
+[43. Project - Stack-Based Calculator](43-Stack-Calc.md)
