@@ -86,4 +86,4 @@ This repository documents my learning journey in C programming. It contains litt
 
 [Advanced Data Structures + Project](42-Adv-Data-Structure.md)
 
-[*PROJECT* - Stack-Based Calculator](43-Stack-Calc.md)
+[**PROJECT** - Stack-Based Calculator](43-Stack-Calc.md)
