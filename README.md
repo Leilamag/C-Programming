@@ -22,7 +22,7 @@ This repository documents my learning journey in C programming. It contains litt
 
 [Working With Numbers + Project](10-Working-with-numbers.md)
 
-[PROJECT - Building A Basic Calculator](11-Building-a-basic-calculator.md)
+[**PROJECT** - Building A Basic Calculator](11-Building-a-basic-calculator.md)
 
 [If Statements + Project](12-if-statement.md)
 
@@ -38,7 +38,7 @@ This repository documents my learning journey in C programming. It contains litt
 
 [Return Statement + Project](18-Return-statement.md)
 
-[PROJECT - Building A Mad Libs Game](19-madlibs.md)
+[**PROJECT** - Building A Mad Libs Game](19-madlibs.md)
 
 [Structs + Project](20-Structs.md)
 
@@ -50,13 +50,13 @@ This repository documents my learning journey in C programming. It contains litt
 
 [Memory Management + Project](24-Memory-mgmt.md)
 
-[PROJECT - Simple Address Book](25-Simple-Address-Book.md)
+[**PROJECT** - Simple Address Book](25-Simple-Address-Book.md)
 
 [Dynamic Memory Allocation + Project](20-Dynamic-Memory-Allocation.md)
 
 [File Input/Output + Project](27-File.md)
 
-[PROJECT - To-Do List App](28-To-Do-List-App.md)
+[**PROJECT** - To-Do List App](28-To-Do-List-App.md)
 
 [Input/Output + Project](29-Input-Output.md)
 
@@ -66,23 +66,23 @@ This repository documents my learning journey in C programming. It contains litt
 
 [Math Functions + Project](32-Math-Fn.md)
 
-[PROJECT - Scientific Calculator](33-Scientific-Calculator.md)
+[**PROJECT** - Scientific Calculator](33-Scientific-Calculator.md)
 
 [OTHER + Project](34-OTHER.md)
 
-[PROJECT - Rock-Paper-Scissors Game](35-Game.md)
+[**PROJECT** - Rock-Paper-Scissors Game](35-Game.md)
 
 [Command-Line Arguments + Project](36-CMD.md)
 
-[PROJECT - Simple File Copier](37-file-copier.md)
+[**PROJECT** - Simple File Copier](37-file-copier.md)
 
 [BITWISE Operations + Project](38-Bitwise.md)
 
-[PROJECT - Binary Converter](39-Binary.md)
+[**PROJECT** - Binary Converter](39-Binary.md)
 
 [Function Pointers + Project](40-Fn-Pointers.md)
 
-[PROJECT - Simple Calculator with Function Pointers](41-Simple-calc.md)
+[**PROJECT** - Simple Calculator with Function Pointers](41-Simple-calc.md)
 
 [Advanced Data Structures + Project](42-Adv-Data-Structure.md)
 
