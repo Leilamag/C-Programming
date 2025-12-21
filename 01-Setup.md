@@ -6,7 +6,8 @@ You need two(2) things to start programming in C;
 
 # Windows Setup
 - Search for `codeblocks` in your browser.
-- Click on downloads and go for the binary release and go for OS.
+- Click on downloads.
+- Click the binary release and select for your system architecture.
 - Go for the `codeblocks` with `mingw` setup, what this does or means is that we can install the IDE (`codeblocks` and also a C compiler).
 
 
