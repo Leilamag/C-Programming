@@ -12,6 +12,8 @@ You need two(2) things to start programming in C;
 
 > [!NOTE] 
 >  Install the program
+> 
 >  Leave the installed setup as default
+> 
 > set the gnu gcc compiler default or the one highlighted.
 
