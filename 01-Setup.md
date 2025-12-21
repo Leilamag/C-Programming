@@ -21,10 +21,10 @@ You need two(2) things to start programming in C;
 
 Earlier on when run this command in our command prompt to check the version of C running, we got nothing;
 
-```
+```c
 gcc --version
 ```
-
+If you do have IDE already and want to install the compiler, take note of the installation path of this `C:\Program Files\CodeBlocks\MinGW\bin`. Copy it, search for environment variables in your windows and edit path. Add new by selecting new and paste that path with `bin` should install in a different directory, that's the path to the compiler.
 
 # Mac Setup
 
