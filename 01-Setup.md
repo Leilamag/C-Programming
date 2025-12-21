@@ -9,6 +9,7 @@ You need two(2) things to start programming in C;
 - Click on downloads.
 - Click the binary release and select for your system architecture.
 - Go for the `codeblocks` with `mingw` setup, what this does or means is that we can install the IDE (`codeblocks` and also a C compiler).
+- And click `sourceforge` to get you the file.
 
 
 > [!NOTE] 
@@ -35,4 +36,6 @@ xcode-select --install
 ```
 
 2. Download the `codeblocks` IDE.
-- Go to binary and go for the Mac option.
+- Click on downloads.
+- Click the binary release.
+- Scroll down to Mac and download.
