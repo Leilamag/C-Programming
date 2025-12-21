@@ -61,7 +61,7 @@ The semi colon - (`;`) is very important, to end any instruction you write in C.
 
 # Running a program
 
-Whenever you want to run a program you write in C you do 2 things;
+Whenever I want to run a program I write in C, I do 2 things;
 - Building a program or compiling a program. 
 Build your C file first, with this the code is translated to machine code or computer code so it can execute it.
 - Run or execute the program.
