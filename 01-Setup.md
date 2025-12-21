@@ -1,6 +1,6 @@
 You need two(2) things to start programming in C;
 
-1. An environment where you can write your C programs etc text editor or IDE (Integrated Development Environment) for this course, we use `codeblocks`.
+1. An environment where you can write your C programs `etc` A Text editor or IDE (Integrated Development Environment) for this course, we use `codeblocks`.
 
 2. 2. A compiler - Should incase you downloaded just a `text-editor`, you would need a `compiler`
 
