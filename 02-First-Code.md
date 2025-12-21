@@ -4,11 +4,11 @@ Run the `codeblocks` application;
 2. Select `Console application`. 
 3. Select C. 
 4. Give a name - `C Programming` for the new project.
-5. Saved project to desktop. 
+5. Saved project to any folder on your desktop. 
 6. Leave the next setup window as default and click finish.
 
 Once the projects is created and started:
-- There is a `main.c` in the source folder, it was created by default with `codeblocks`.
+- There is a `main.c` file in the source folder, it was created by default with `codeblocks`.
 
 Code found in the `main.c` file;
 
