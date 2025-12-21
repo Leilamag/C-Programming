@@ -17,8 +17,13 @@ You need two(2) things to start programming in C;
 > 
 >  Leave the installed setup as default
 > 
-> set the gnu gcc compiler default or the one highlighted.
+> set/select the `gnu gcc compiler` to set as default or the one highlighted.
 
+Earlier on when run this command in our command prompt to check the version of C running, we got nothing;
+
+```
+gcc --version
+```
 
 
 # Mac Setup
