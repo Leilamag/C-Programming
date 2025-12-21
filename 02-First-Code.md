@@ -26,5 +26,5 @@ int main()
 
 - Click the `Build and run` icon to run the file or execute the program.
 
-Reanmed the `main.c` for orderliness to `1.Hello-World.c`.
-In my project folder - I created each topic file's, for the next topic Building shapes - I created new file and called it `2. Second-Code.c` and so on.
+Reanmed the `main.c` for orderliness to `2.Hello-World.c`.
+In my project folder - I created each topic file's, for the next topic Building shapes - I created new file and called it `3. Second-Code.c` and so on.
