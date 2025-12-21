@@ -44,7 +44,7 @@ Renamed the `main.c` for orderliness to `2.Hello-World.c`. So in my project f
 
 But it's going to be tricky or not just straight forward like `python` where you can have various or different files in one project and have them run with ease.  
 
-In C, **a program can have only ONE `main()` function**:
+In C, **a program/Project can have only ONE `main()` function**:
 You can not just create a new C file n this project and give or name it - `3. Second-Code.c` and so on, you would run into `main()` function issue or error. 
 
 ## Solution 1: 
