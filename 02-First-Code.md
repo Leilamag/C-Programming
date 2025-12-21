@@ -86,31 +86,6 @@ void shapes(){
 Creating header and the new C file.
 `.c` + `.h` (BEST PRACTICE) - This is how **real C projects** are structured.
 
-Header file - `header.h`;
-
-```
-#ifndef SECOND_CODE_H_INCLUDED
-#define SECOND_CODE_H_INCLUDED
-
-void shapes(void);
-
-#endif // SECOND_CODE_H_INCLUDED
-```
-
-Second file - `3.Second-Code.c`;
-
-```c
-#include <stdio.h>
-#include "header.h"
-
-void shapes(void) {
-    printf("    /|\n");
-    printf("   / |\n");
-    printf("  /  |\n");
-    printf(" /___|\n");
-}
-```
-
 Main code - `2.Hello-World.c`;
 
 ```c
@@ -125,3 +100,30 @@ int main()
     return 0;
 }
 ```
+
+Header file: create one - `header.h`;
+
+```
+#ifndef SECOND_CODE_H_INCLUDED
+#define SECOND_CODE_H_INCLUDED
+
+void shapes(void);
+
+#endif // SECOND_CODE_H_INCLUDED
+```
+
+Second C file you want to also run  - `3.Second-Code.c`;
+
+```c
+#include <stdio.h>
+#include "header.h"
+
+void shapes(void) {
+    printf("    /|\n");
+    printf("   / |\n");
+    printf("  /  |\n");
+    printf(" /___|\n");
+}
+```
+
+
