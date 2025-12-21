@@ -129,16 +129,28 @@ void shapes(void);
 
 Second C file you want to also run  - `3.Second-Code.c`;
 
+
 ```c
 #include <stdio.h>
 #include "header.h"
 
 void shapes(void) {
+    printf("I'm drawing a traiangle below\n");
+    printf("\n");
     printf("    /|\n");
     printf("   / |\n");
     printf("  /  |\n");
     printf(" /___|\n");
+    printf("\n");
+    printf("I'm drawing a rectangle below\n");
+    printf("\n");
+    printf(" ________________\n");
+    printf("|                |\n");
+    printf("|                |\n");
+    printf("|________________|\n");
 }
 ```
+
+
 
 
