@@ -17,3 +17,21 @@ You need two(2) things to start programming in C;
 > 
 > set the gnu gcc compiler default or the one highlighted.
 
+
+
+# Mac Setup
+
+1. Go to your terminal: check if you have C installed.
+
+```command
+cc -v
+```
+
+To install:
+
+```command
+xcode-select --install
+```
+
+2. Download the `codeblocks` IDE.
+- Go to binary and go for the Mac option.
