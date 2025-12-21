@@ -1,5 +1,7 @@
 # Drawing shapes
 
+Let us draw a triangle.
+
 ```c
 #include <stdio.h>
 #include <stdlib.h>
