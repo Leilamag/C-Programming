@@ -25,3 +25,5 @@ int main()
 ```
 
 - Click the `Build and run` icon to run the file or execute the program.
+
+Reanmed the `main.c` for orderliness to `1.Hello-World.c`
