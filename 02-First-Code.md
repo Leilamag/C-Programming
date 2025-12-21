@@ -34,9 +34,13 @@ Preprocessor Directives - these are instructions to the compiler, telling it to 
 In python, `#` is used for commenting, but in C, it is used for preprocessor directives, different language different rules.
 
 `#include <stdio.h>` - include standard input/output, this header file provides functions for input/output operations `i.e` 
+
 `printf()` - for printing output
+
 `scanf()` - for reading input
+
 `getchar()` - for reading characters
+
 `putchar()` - for writing character etc.
 
 `#include <stdlib.h>` - include standard library, this header file provides general-purpose functions `i.e` 
