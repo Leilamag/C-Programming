@@ -42,9 +42,9 @@ One `main()` per project (BEST for beginners) - Create **a separate project for 
 Exclude a file from build (Code::Blocks) - If you want to keep files but compile only one:
 
 1. Right-click the `.c` file you want to exclude and in this case the main or hello file.
-2. Choose **Properties**
-3. Uncheck `**Compile file**` and `**Link file**`
-4. Build again
+2. Choose `Properties`.
+3. Uncheck `**Compile file**` and `**Link file**`.
+4. Build again.
 
 ## Solution 3: 
 Remove `main()` from one file - If both files must stay in the same project:
