@@ -84,7 +84,7 @@ void shapes(){
 
 ## Solution 4: 
 Creating header and the new C file.
-`.c` + `.h` (BEST PRACTICE) - This is how **real C projects** are structured.
+`.c` + `.h` - This is how **real C projects** are structured.
 
 Main code - `2.Hello-World.c`;
 
