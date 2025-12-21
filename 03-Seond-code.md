@@ -135,6 +135,7 @@ Second C file you want to also run  - `3.Second-Code.c`;
 #include "header.h"
 
 void shapes(void) {
+    printf("\n");
     printf("I'm drawing a traiangle below\n");
     printf("\n");
     printf("    /|\n");
