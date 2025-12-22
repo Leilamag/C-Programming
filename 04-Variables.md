@@ -118,6 +118,7 @@ int main()
 ```
 
 Tried the code with `%c` and the single quotes, to see what happens, I notice only the last letters for the name and country gets printed.
+
 Note: you can only store only one single character here, if more than one it will print the string index 0 in this case or throws error. 
 
 ```c
