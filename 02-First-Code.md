@@ -26,6 +26,24 @@ int main()
 
 - Click the `Build and run` icon to run the file or execute the program.
 
+Breakdown of the Hello World code created in the `main.c` file by default;
+
+- `#include <stdio.h>` - Preprocessor directive for input/output operations.
+- `#include <stdlib.h>` - Preprocessor directive for standard library.
+- `int` - is a keyword (Return type).
+- `main` - is the function name.
+- `()` - parameter list/function parameters.
+- `main()` - is the function.
+- `{...}` - is the function body.
+- Code is inside the function body and in this case is this below;
+
+```
+    printf("Hello World");
+
+    return 0;
+```
+
+
 # The basis of writing a program in C.
 
 1. The include instructions, must be there for us to use our program which are known as preprocessor directives.
