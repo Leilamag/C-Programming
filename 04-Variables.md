@@ -55,9 +55,12 @@ int main()
 > [!NOTE] 
 > We can see the name changed from `George` to `Abram` and age also from 70 to 35 from the original code.
 > 
-> %s - is like a place holder for the string or to insert a string there. 
-> %d - means insert an integer there.
+> `%c` - this will allow to print a single character.
+> %s - is like a place holder for the string or to insert a string there or means you want to include some text. 
+> %d - means insert an integer there or you want to print an integer.
+> `%f` - decimal number or a double.
 > 
+
 
 You can modify the information stored halfway, like below;
 
@@ -111,3 +114,19 @@ int main()
 }
 ```
 
+Tried the code with `%c` to see what happens, I notice only the last letters for the name and country gets printed.
+
+```c
+#include <stdio.h>
+
+int main()
+{
+    char myName = 'Philip';
+    int myAge = 29;
+    char Country = 'Nigeria';
+    printf("Hello %c, so you are from %c.\n", myName, Country);
+    printf("I can see your age is %d and you are too old to learn C, LOL just kidding!\n", myAge);
+    printf("Nevertheless I hope you enjoy the journey.\n");
+    return 0;
+}
+```
