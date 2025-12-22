@@ -55,13 +55,13 @@ int main()
 > [!NOTE] 
 > We can see the name changed from `George` to `Abram` and age also from 70 to 35 from the original code.
 > 
-> `%c` - this will allow to print a single character.
+> %c - this will allow to print a single character.
 > 
 > %s - is like a place holder for the string or to insert a string there or means you want to include some text.
 > 
 > %d - means insert an integer there or you want to print an integer.
 > 
-> `%f` - decimal number or a double.
+> %f - decimal number or a double.
 > 
 
 
