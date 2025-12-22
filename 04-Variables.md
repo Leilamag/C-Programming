@@ -55,6 +55,8 @@ int main()
 > [!NOTE] 
 > We can see the name changed from `George` to `Abram` and age also from 70 to 35 from the original code.
 > 
+> Format specifier;
+> 
 > %c - this will allow to print a single character.
 > 
 > %s - is like a place holder for the string or to insert a string there or means you want to include some text.
