@@ -101,9 +101,9 @@ Create a program that prints your information stored by it and a greeting with t
 
 int main()
 {
-    char myName[]= "L";
+    char myName= "L";
     int myAge = 29;
-    char Country[]= "Two";
+    char Country= "Two";
     printf("Hello %s, so you are from %s.\n", myName, Country);
     printf("I can see your age is %d and you are too old to learn C, LOL just kidding!\n", myAge);
     printf("Nevertheless I hope you enjoy the journey.\n");
