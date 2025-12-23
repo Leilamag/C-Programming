@@ -3,8 +3,10 @@ Comments are you use to:
 - explain a certain line of code or 
 - to comment out a line of code instead deleting the line of code.
 
-
 In C `#` is not used for commenting lines of code like it is, in python - here it is used for preprocessor directives.
+
+> [!NOTE] 
+> Only use a comment when you have to or when necessary - for best practice.
 
 ## Method 1
 
@@ -58,10 +60,5 @@ int main()
     return 0;
 }
 ```
-
-
-
-> [!NOTE] 
-> Only use a comment when you have to or when necessary - for best practice.
 
 
