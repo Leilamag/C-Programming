@@ -1,4 +1,3 @@
-
 It is a special block of code in C that get's ignored when you run your program.
 Comments are you use to:
 - explain a certain line of code or 
@@ -7,7 +6,9 @@ Comments are you use to:
 
 In C, `#` is not used for commenting lines of code like it is, in python - here it is used for preprocessor directives.
 
-- `//` - is used for single-line comments
+## Method 1
+
+`//` - is used for single-line comments
 
 To start a comment you can also use two (2) forward slash `//`.
 
@@ -28,7 +29,9 @@ int main()
 ```
 
 
-- `/*  */`  - is used for multi-line comments.
+## Method 2
+
+`/*  */`  - is used for multi-line comments.
 
 ```
 /*
@@ -55,6 +58,8 @@ int main()
     return 0;
 }
 ```
+
+
 
 > [!NOTE] 
 > Only use a comment when you have to or when necessary - for best practice.
