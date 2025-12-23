@@ -156,7 +156,7 @@ int main()
 
     const float pi = 3.14;
     int radius = 8;
-    //we used float keyword since the result is going to be a decimal number.
+    //I used float keyword since the result is going to be a decimal number.
     float area = pi * radius * radius;
     printf("%f\n", area);
 
