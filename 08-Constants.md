@@ -3,7 +3,10 @@ Constants is a special type of variable in C which cannot be modified - it is li
 A constant can refer to any text or number that you are using in your program. A piece of information or data  in your program that is unchanging unless you manually come into the code and modify the code, so this is considered a constant. 
 When you create constants in C, you are creating a value that is/will be unable to be modified.
 
-For example, the code below we can see the variable `num` gets modified when given the value 8:
+## For example
+
+The code below we can see the variable `num` gets modified when given the value 8:
+
 #### Error
 
 Without the new line character in our code, we can see the output or result as 58, instead of the 5 and 8 separate;
