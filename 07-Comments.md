@@ -35,6 +35,8 @@ int main()
 
 `/*  */`  - is used for multi-line comments.
 
+OR
+
 ```
 /*
 
