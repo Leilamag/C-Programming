@@ -4,7 +4,7 @@ Comments are you use to:
 - to comment out a line of code instead deleting the line of code.
 
 
-In C, `#` is not used for commenting lines of code like it is, in python - here it is used for preprocessor directives.
+In C `#` is not used for commenting lines of code like it is, in python - here it is used for preprocessor directives.
 
 ## Method 1
 
