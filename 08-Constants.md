@@ -52,6 +52,7 @@ int main()
     return 0;
 }
 ```
+So new line character is needed.
 
 # Constants
 
