@@ -131,7 +131,7 @@ Press any key to continue.
 This is a problem with using the `scanf` when trying to get a string from a user it will grab all characters before the first space. 
 You can modify `scanf` to get the whole line with spaces or the entire string inputted or you can use the `fgets` function to solve this.
 
-## Solution 1 - `scanf with a scanset`
+# Solution 1 - `scanf with a scanset`
 
 You can use a `scanset` to read a string with spaces - this reads everything until a newline (`\n`).
 
@@ -159,7 +159,7 @@ int main()
 }
 ```
 
-#### Not A Solution - `scanf with a width specifier`
+## Not A Solution - `scanf with a width specifier`
 
 You can specify a maximum width to avoid buffer overflow:
 
@@ -191,7 +191,7 @@ int main()
 Still get the error of just the first name before the first spacing outputted, instead of outputting both names inputted which is `John Mark`.
 
 
-#### Solution 2 - `fgets`.
+# Solution 2 - `fgets`.
 
 `fgets` - reads the entire line, including spaces, until it hits a newline or the buffer is full.
 
