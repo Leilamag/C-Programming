@@ -100,6 +100,7 @@ int main()
 
 > [!NOTE] 
 > Whenever you are creating a string character you need the open and close square brackets `[]`.
+> 
 > You should specify the number of characters in the open and close square brackets `i.e` if 30. So C can know how big the variable characters would be.
 > 
 
