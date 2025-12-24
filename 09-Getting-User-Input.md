@@ -306,7 +306,7 @@ Press any key to continue.
 For now, you can just know that the example or mini code below  is a common trick to remove the newline character from a string read with `fgets`.
 
 ```example
-#include <>string.h
+#include <string.h>
 
 name[strcspn(name, "\n")] = 0; // remove newline
 ```
