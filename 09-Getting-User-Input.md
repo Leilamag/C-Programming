@@ -173,7 +173,9 @@ A proper breakdown of what it does;
 - Leaves space for the null terminator (`\0`).
 
 > [!NOTE] ISSUE
+> 
 > Still stops at whitespace (spaces, tabs, etc.), so not ideal for reading full names with spaces.
+> 
 
 ```c
 #include <stdio.h>
