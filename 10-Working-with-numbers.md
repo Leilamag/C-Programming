@@ -197,7 +197,8 @@ int main()
 > [!NOTE] 
 > Observe the difference from the rounding up or down from the ceil and floor example above.
 > 
-> Google C `maths` functions and play around with them.
+> Google C `maths` functions and play around with them
+> https://en.wikipedia.org/wiki/C_mathematical_functions
 > 
 
 # Project
