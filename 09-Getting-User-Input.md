@@ -50,15 +50,15 @@ int main()
 > Recall format specifier;
 > 
 > - `%c` - for a single character/letter.
-> - 
+> 
 > - %s - for a string/text.
-> - 
+>  
 > - %d - for an integer.
-> - 
+>  
 > - `%f` - for a decimal number/floating point numbers.
-> - 
+>  
 > - `%lf` - for a double.
-> - 
+>   
 
 ## To Get Character
 
