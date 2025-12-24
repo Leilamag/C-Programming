@@ -382,7 +382,7 @@ int main()
 {
     char username[30];
     printf("Can you enter your instagram's username below\n>>> ");
-    scanf("%[^\n]", &username);
+    fgets(username, 30, stdin);
     username[strcspn(username, "\n")] = 0;
     printf("Welcome to instagram %s!!!\n", username);
     return 0;
