@@ -131,7 +131,7 @@ Press any key to continue.
 This is a problem with using the `scanf` when trying to get a string from a user it will grab all characters before the first space. 
 You can modify `scanf` to get the whole line with spaces or the entire string inputted or you can use the `fgets` function to solve this.
 
-#### Solution 1 - `scanf with a scanset`
+## Solution 1 - `scanf with a scanset`
 
 You can use a `scanset` to read a string with spaces - this reads everything until a newline (`\n`).
 
