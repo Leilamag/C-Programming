@@ -172,7 +172,7 @@ A proper breakdown of what it does;
 - `%49s`: Reads a string with a maximum width of 49 characters.
 - Leaves space for the null terminator (`\0`).
 
-> [!NOTE] ISSUE
+> [!ISSUE] 
 > 
 > Still stops at whitespace (spaces, tabs, etc.), so not ideal for reading full names with spaces.
 > 
@@ -259,7 +259,7 @@ Press any key to continue.
 > `stdin` - stands for standard input. This is where we are going to get the information from or it is like the console you are using or typing your input on.
 > 
 
-##### Note `fgets` issue
+## Note `fgets` issue
 
 We can see the problem in the following code below;
 
@@ -296,7 +296,7 @@ Process returned 0 (0x0)   execution time : 4.534 s
 Press any key to continue.
 ```
 
-> [!NOTE] FIX
+> [!FIX] FIX
 > To fix this - while still using `fgets`:
 > You remove the newline using `strcspn` and the preprocessor directive of `<string.h>` as seen below.
 > 
