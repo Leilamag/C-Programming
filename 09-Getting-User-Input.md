@@ -172,9 +172,9 @@ A proper breakdown of what it does;
 - `%49s`: Reads a string with a maximum width of 49 characters.
 - Leaves space for the null terminator (`\0`).
 
-> [!ISSUE] 
+> [!NOTE] 
 > 
-> Still stops at whitespace (spaces, tabs, etc.), so not ideal for reading full names with spaces.
+> ISSUE - Still stops at whitespace (spaces, tabs, etc.), so not ideal for reading full names with spaces.
 > 
 
 ```c
