@@ -215,7 +215,7 @@ int main()
 }
 ```
 
-	OR
+OR
 
 `sizeof(name)` - as seen below
 
