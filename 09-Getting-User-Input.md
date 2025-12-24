@@ -296,7 +296,7 @@ Process returned 0 (0x0)   execution time : 4.534 s
 Press any key to continue.
 ```
 
-> [!FIX] FIX
+> [!NOTE] 
 > To fix this - while still using `fgets`:
 > You remove the newline using `strcspn` and the preprocessor directive of `<string.h>` as seen below.
 > 
