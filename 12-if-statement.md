@@ -151,10 +151,15 @@ int main()
 
 > [!NOTE] 
 > `<` - less than sign
+> 
 > `>` - greater than sign
+> 
 > `<=` - less than or equal to sign
+> 
 > `>=` - greater than or equal to sign
+> 
 > `==` - equality sign
+> 
 > `!=` - not equals to 
  > 
 
